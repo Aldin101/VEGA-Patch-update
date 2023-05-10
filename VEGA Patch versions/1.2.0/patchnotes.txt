@@ -1,0 +1,16 @@
+1.2.0
+Changes:
+Added Virtual Desktop support
+Added the ability to modify your install from the installer by running it with VEGA Patch installed
+	Added the ability to reset VEGA Patch and reinstall (delete all of VEGA Patch's files and reinstall, same as running the uninstaller and installing again)
+	Added the ability to automatically download and install VEGA Patch from the internet
+		Note: This will always install the latest version
+	Added the ability to switch in and out of revive mode
+	Added the ability to disable auto update
+		Note: This does not disable VEGA Patch's network access, only stops updates from requesting user input 
+		Note: Required updates are unaffected
+	Added the ability to uninstall VEGA Patch
+Fixed a bug that can cause the Revive dashboard to be configured when updating even if you did not install using Revive mode
+Fixed a bug that would cause a success message and prompt for reboot to appear when closing the installer
+Made the capitalization of "Revive" consistent
+Changed when the reboot prompt appears so that it is only there when needed (installing for the first time or after uninstalling)
