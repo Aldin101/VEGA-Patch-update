@@ -1,10 +1,58 @@
 {
+   "1.0.0":[
+      {
+         "active":"false",
+         "latest":"false",
+         "update":"quiet installer",
+         "notes":"patchnotes txt file"
+      }
+   ],
+   "1.0.1":[
+      {
+         "active":"true",
+         "latest":"false",
+         "update":"quiet installer",
+         "notes":"patchnotes txt file"
+      }
+   ],
+   "1.1.0":[
+      {
+         "active":"true",
+         "latest":"false",
+         "update":"quiet installer",
+         "notes":"patchnotes txt file"
+      }
+   ],
+   "1.1.1":[
+      {
+         "active":"true",
+         "latest":"false",
+         "update":"quiet installer",
+         "notes":"patchnotes txt file"
+      }
+   ],
+   "1.1.2":[
+      {
+         "active":"true",
+         "latest":"false",
+         "update":"quiet installer",
+         "notes":"patchnotes txt file"
+      }
+   ],
+   "1.2.0":[
+      {
+         "active":"true",
+         "latest":"true",
+         "update":"quiet installer",
+         "notes":"patchnotes txt file"
+      }
+   ],
    "1.2.1":[
       {
          "active":"true",
          "latest":"true",
-         "edition":"First",
-         "author":"Dennis Ritchie "
-      },
+         "update":"quiet installer",
+         "notes":"patchnotes txt file"
+      }
    ]
-}  
+}
