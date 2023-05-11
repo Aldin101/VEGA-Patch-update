@@ -3,35 +3,35 @@
       {
          "active":"false",
          "latest":"false",
-         "update":"quiet installer"
+         "update":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA_Patch_installer.exe"
       }
    ],
    "1.0.1":[
       {
          "active":"true",
          "latest":"false",
-         "update":"quiet installer"
+         "update":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA_Patch_installer.exe"
       }
    ],
    "1.1.0":[
       {
          "active":"true",
          "latest":"false",
-         "update":"quiet installer"
+         "update":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA_Patch_installer.exe"
       }
    ],
    "1.1.1":[
       {
          "active":"true",
          "latest":"false",
-         "update":"quiet installer"
+         "update":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA_Patch_installer.exe"
       }
    ],
    "1.1.2":[
       {
          "active":"true",
          "latest":"false",
-         "update":"quiet installer",
+         "update":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA_Patch_installer.exe",
          "notes":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/patchnotes.txt"
       }
    ],
@@ -39,7 +39,7 @@
       {
          "active":"true",
          "latest":"true",
-         "update":"quiet installer",
+         "update":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA_Patch_installer.exe",
          "notes":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/patchnotes.txt",
          "uninstaller":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA%20Patch%20uninstaller.exe"
       }
@@ -48,7 +48,7 @@
       {
          "active":"true",
          "latest":"true",
-         "update":"quiet installer",
+         "update":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA_Patch_installer.exe",
          "notes":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/patchnotes.txt",
          "uninstaller":"https://update.vegapatch.ml/VEGA%20Patch%20versions/1.2.0/VEGA%20Patch%20uninstaller.exe"
       }
