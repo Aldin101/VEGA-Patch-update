@@ -1,0 +1,60 @@
+{
+  "parentCanonicalName": null,
+  "files": {
+    "bin\\win10\\BsSndRpt64.exe": {
+      "sha256": "5c141dd05a20aa0b8ada5fa5ed313c4ecf137c4534ac264183876898d40ffb88",
+      "size": 425488,
+      "segmentSize": 10000000,
+      "segments": [
+        [
+          104119656981400,
+          "5c141dd05a20aa0b8ada5fa5ed313c4ecf137c4534ac264183876898d40ffb88",
+          210659
+        ]
+      ]
+    },
+    "bin\\win10\\loneecho2.exe": {
+      "sha256": "132d973ac5125fb4e37da3fdf94fd022ad2f3aea1af4b5dfef6aa902d175218b",
+      "size": 33439232,
+      "segmentSize": 10000000,
+      "segments": [
+        [
+          28266827278682,
+          "180483ebdbefea9e61b7b199701aa554c2ce9355a3cbecf9a037ea6671f7b2e0",
+          3904718
+        ],
+        [
+          16056468556540,
+          "ba6d51cdbef096105c56b749f838d4972c220c9272cefca8a9e2a25e1b2549a1",
+          3341990
+        ],
+        [
+          174933271660501,
+          "89bfc306f6878c4f7d047f1f67a237e39b164e24f53df5239cc018de269c653c",
+          6194790
+        ],
+        [
+          57535800854043,
+          "97006e45b21be8eeeab52cd2d8a8383dbe007cb690652b1aee73fb7051d4d53e",
+          1457243
+        ]
+      ]
+    }
+  },
+  "dlcs": {},
+  "assetFiles": {},
+  "packageType": "APP",
+  "isCore": false,
+  "appId": "1711938725528735",
+  "canonicalName": "ready-at-dawn-lone-echo-2",
+  "launchFile": "\\bin\\win10\\loneecho2.exe",
+  "launchParameters": null,
+  "launchFile2D": null,
+  "launchParameters2D": null,
+  "version": "1.1.561021.2",
+  "versionCode": 987,
+  "redistributables": [],
+  "firewallExceptionsRequired": true,
+  "thirdParty": false,
+  "manifestVersion": 1
+}
